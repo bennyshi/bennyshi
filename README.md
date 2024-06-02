@@ -1,4 +1,4 @@
-[![MasterHead](https://www.icegif.com/wp-content/uploads/studio-ghibli-icegif-1.gif)](https://rishavchanda.io)
+<a href="https://rishavchanda.io"><img src="https://www.icegif.com/wp-content/uploads/studio-ghibli-icegif-1.gif" alt="MasterHead" width="100%" /></a>
 
 <h1 align="center">Hi 👋, I'm Benny Shi</h1>
 <h3 align="center">Passionate about exploring the dynamic field of data science and software engineering. I aspire to bridge these disciplines and allow for the creation of robust, data-driven applications to leave a tangible impact on our society.</h3>
